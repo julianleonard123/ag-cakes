@@ -1,0 +1,55 @@
+/* Warm neutral beige-green background */
+body {
+    background-color: #D4D9C8 !important;
+}
+
+/* Adjust header to complement background */
+header {
+    background: rgba(212, 217, 200, 0.95) !important;
+}
+
+.main-menu {
+    background: transparent !important;
+}
+
+
+/* Elegant serif font similar to AG Cakes logo */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap');
+
+body, p, h1, h2, h3, h4, h5, h6, .prose {
+    font-family: 'Cormorant Garamond', serif !important;
+    letter-spacing: 0.02em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500 !important;
+}
+
+p {
+    font-weight: 400 !important;
+}
+
+/* Center contact page content */
+article section.flex.lg\:flex-row {
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+article .article-content {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    max-width: 100% !important;
+}
+
+/* Center header on contact page */
+article header#single_header {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+}
+
+/* Center share icons */
+article section.flex.flex-row.flex-wrap.justify-center {
+    justify-content: center !important;
+}

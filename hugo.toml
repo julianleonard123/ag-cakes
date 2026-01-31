@@ -1,0 +1,7 @@
+baseURL = 'https://ag-cakes.com/'
+languageCode = 'en-us'
+title = 'AG Cakes'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nunocoracao/blowfish/v2"

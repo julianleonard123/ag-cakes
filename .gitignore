@@ -1,0 +1,44 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+_vendor/
+
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# CDK
+cdk/cdk.out/
+cdk/*.js
+cdk/*.d.ts
+cdk/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.log
+.scratch/
+
+# Build artifacts
+public/
