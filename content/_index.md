@@ -23,5 +23,6 @@ description: "Welcome to AG Cakes! We create bespoke celebration cakes for all y
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-top: 3rem;">
   <img src="img/cake3.jpg" alt="Cake" style="width: 100%; height: auto; border-radius: 8px;">
   <img src="img/cake2.jpg" alt="Cake" style="width: 100%; height: auto; border-radius: 8px;">
+  <img src="img/cake4.jpg" alt="Cake" style="width: 100%; height: auto; border-radius: 8px;">
 </div>
 {{< /rawhtml >}}
