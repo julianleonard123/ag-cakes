@@ -24,5 +24,6 @@ description: "Welcome to AG Cakes! We create bespoke celebration cakes for all y
   <img src="img/cake3.jpg" alt="Cake" style="width: 100%; height: auto; border-radius: 8px;">
   <img src="img/cake2.jpg" alt="Cake" style="width: 100%; height: auto; border-radius: 8px;">
   <img src="img/cake4.jpg" alt="Cake" style="width: 100%; height: auto; border-radius: 8px;">
+  <img src="img/cake5.jpg" alt="Cake" style="width: 100%; height: auto; border-radius: 8px;">
 </div>
 {{< /rawhtml >}}
